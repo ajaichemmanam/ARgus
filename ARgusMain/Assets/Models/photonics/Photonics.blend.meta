@@ -1,0 +1,185 @@
+fileFormatVersion: 2
+guid: b925e05b219e8454699e9384a4480701
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Cone
+    100002: Cube
+    100004: Cylinder
+    100006: LowerRim.002
+    100008: LowerRim.003
+    100010: LowerRim.004
+    100012: //RootNode
+    100014: Photonics_E
+    100016: Photonics_N
+    100018: Photonics_W
+    100020: pointybit.001
+    100022: pointybit.002
+    100024: pointybit.003
+    100026: Pole
+    100028: Sphere
+    100030: UpperRim.002
+    100032: UpperRim.003
+    100034: UpperRim.004
+    400000: Cone
+    400002: Cube
+    400004: Cylinder
+    400006: LowerRim.002
+    400008: LowerRim.003
+    400010: LowerRim.004
+    400012: //RootNode
+    400014: Photonics_E
+    400016: Photonics_N
+    400018: Photonics_W
+    400020: pointybit.001
+    400022: pointybit.002
+    400024: pointybit.003
+    400026: Pole
+    400028: Sphere
+    400030: UpperRim.002
+    400032: UpperRim.003
+    400034: UpperRim.004
+    2100000: PhotonicsN
+    2100002: Wood Secondary
+    2100004: PhotonicsE
+    2100006: Brick
+    2100008: PhotonicsW
+    2100010: Steel
+    2100012: SteelDarker
+    2300000: Cone
+    2300002: Cube
+    2300004: Cylinder
+    2300006: LowerRim.002
+    2300008: LowerRim.003
+    2300010: LowerRim.004
+    2300012: Photonics_E
+    2300014: Photonics_N
+    2300016: Photonics_W
+    2300018: pointybit.001
+    2300020: pointybit.002
+    2300022: pointybit.003
+    2300024: Pole
+    2300026: Sphere
+    2300028: UpperRim.002
+    2300030: UpperRim.003
+    2300032: UpperRim.004
+    3300000: Cone
+    3300002: Cube
+    3300004: Cylinder
+    3300006: LowerRim.002
+    3300008: LowerRim.003
+    3300010: LowerRim.004
+    3300012: Photonics_E
+    3300014: Photonics_N
+    3300016: Photonics_W
+    3300018: pointybit.001
+    3300020: pointybit.002
+    3300022: pointybit.003
+    3300024: Pole
+    3300026: Sphere
+    3300028: UpperRim.002
+    3300030: UpperRim.003
+    3300032: UpperRim.004
+    4300000: Photonics_N
+    4300002: pointybit.001
+    4300004: UpperRim.002
+    4300006: LowerRim.002
+    4300008: Photonics_E
+    4300010: pointybit.002
+    4300012: UpperRim.003
+    4300014: LowerRim.003
+    4300016: Cube
+    4300018: Photonics_W
+    4300020: pointybit.003
+    4300022: UpperRim.004
+    4300024: LowerRim.004
+    4300026: Pole
+    4300028: Sphere
+    4300030: Cylinder
+    4300032: Cone
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

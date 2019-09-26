@@ -1,0 +1,206 @@
+fileFormatVersion: 2
+guid: 69a06554ae00c1541870c063de2ae8dc
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Budget_StudiesE
+    100004: Budget_StudiesN
+    100006: BudgetStudiesS
+    100008: BudgetStudiesW
+    100010: Cone
+    100012: Cube
+    100014: Cylinder
+    100016: LowerRim.002
+    100018: LowerRim.003
+    100020: LowerRim.004
+    100022: LowerRim.005
+    100024: pointybit.001
+    100026: pointybit.002
+    100028: pointybit.003
+    100030: pointybit.004
+    100032: Pole
+    100034: Sphere
+    100036: UpperRim.002
+    100038: UpperRim.003
+    100040: UpperRim.004
+    100042: UpperRim.005
+    400000: //RootNode
+    400002: Budget_StudiesE
+    400004: Budget_StudiesN
+    400006: BudgetStudiesS
+    400008: BudgetStudiesW
+    400010: Cone
+    400012: Cube
+    400014: Cylinder
+    400016: LowerRim.002
+    400018: LowerRim.003
+    400020: LowerRim.004
+    400022: LowerRim.005
+    400024: pointybit.001
+    400026: pointybit.002
+    400028: pointybit.003
+    400030: pointybit.004
+    400032: Pole
+    400034: Sphere
+    400036: UpperRim.002
+    400038: UpperRim.003
+    400040: UpperRim.004
+    400042: UpperRim.005
+    2100000: Budget_StudiesN
+    2100002: Wood Secondary
+    2100004: Budget_StudiesE
+    2100006: Brick
+    2100008: Budget_StudiesW
+    2100010: Budget_StudiesS
+    2100012: Steel
+    2100014: SteelDarker
+    2300000: Budget_StudiesE
+    2300002: Budget_StudiesN
+    2300004: BudgetStudiesS
+    2300006: BudgetStudiesW
+    2300008: Cone
+    2300010: Cube
+    2300012: Cylinder
+    2300014: LowerRim.002
+    2300016: LowerRim.003
+    2300018: LowerRim.004
+    2300020: LowerRim.005
+    2300022: pointybit.001
+    2300024: pointybit.002
+    2300026: pointybit.003
+    2300028: pointybit.004
+    2300030: Pole
+    2300032: Sphere
+    2300034: UpperRim.002
+    2300036: UpperRim.003
+    2300038: UpperRim.004
+    2300040: UpperRim.005
+    3300000: Budget_StudiesE
+    3300002: Budget_StudiesN
+    3300004: BudgetStudiesS
+    3300006: BudgetStudiesW
+    3300008: Cone
+    3300010: Cube
+    3300012: Cylinder
+    3300014: LowerRim.002
+    3300016: LowerRim.003
+    3300018: LowerRim.004
+    3300020: LowerRim.005
+    3300022: pointybit.001
+    3300024: pointybit.002
+    3300026: pointybit.003
+    3300028: pointybit.004
+    3300030: Pole
+    3300032: Sphere
+    3300034: UpperRim.002
+    3300036: UpperRim.003
+    3300038: UpperRim.004
+    3300040: UpperRim.005
+    4300000: Budget_StudiesN
+    4300002: pointybit.001
+    4300004: UpperRim.002
+    4300006: LowerRim.002
+    4300008: Budget_StudiesE
+    4300010: pointybit.002
+    4300012: UpperRim.003
+    4300014: LowerRim.003
+    4300016: Cube
+    4300018: BudgetStudiesW
+    4300020: pointybit.003
+    4300022: UpperRim.004
+    4300024: LowerRim.004
+    4300026: BudgetStudiesS
+    4300028: pointybit.004
+    4300030: UpperRim.005
+    4300032: LowerRim.005
+    4300034: Pole
+    4300036: Sphere
+    4300038: Cylinder
+    4300040: Cone
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
